@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # SwiftUI User Location on a Map - MapKit & CoreLocation
 
 
@@ -10,6 +10,3 @@
 
 Thank you.
 =======
-# SwiftUI-User-Location-MapKit-CoreLocation
-SwiftUI User Location &amp; MapKit CoreLocation
->>>>>>> parent of 6caf74d (demo add)
